@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.858c2d0c.css",
+    "main.js": "/static/js/main.b831d4e1.js",
+    "static/media/ninaogalex.jpg": "/static/media/ninaogalex.2df41fa05d2dbd392ef5.jpg",
+    "static/media/tryvannstua.png": "/static/media/tryvannstua.da01dea7bf51bce0aecf.png",
+    "static/media/blomster.png": "/static/media/blomster.9b5536c0ebec969468fb.png",
+    "static/media/shelline.ttf": "/static/media/shelline.767fb324b9c8c4502e12.ttf",
+    "static/media/tidslinje.png": "/static/media/tidslinje.ca8253ec159d96f1be30.png",
+    "static/media/alexognina.png": "/static/media/alexognina.81557f18a94276d81c7d.png",
+    "index.html": "/index.html",
+    "main.858c2d0c.css.map": "/static/css/main.858c2d0c.css.map",
+    "main.b831d4e1.js.map": "/static/js/main.b831d4e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858c2d0c.css",
+    "static/js/main.b831d4e1.js"
+  ]
+}
