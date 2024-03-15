@@ -8,7 +8,7 @@ const PraktiskInfo = () => {
       </div>
 
       <div className='flex flex-col justify-center items-center mt-4 p-3 text-2xl'>
-      <h2>Bryllupet feires på Tryvannstua</h2>
+      <h2>Bryllupet feires på Tryvannstua 29. juni 2024</h2>
       <img src={Tryvannstua} alt="img" className='h-80 rounded mt-2'/>
       </div>
 
