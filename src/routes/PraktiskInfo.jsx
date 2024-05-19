@@ -16,9 +16,10 @@ const PraktiskInfo = () => {
             <div className='flex flex-col justify-center items-center mt-4 text-center text-xl'>
                 <h2>Felles busser går fra Oslo S, Sjøsiden, kl. 13:00</h2>
                 <h2 className='mt-1'>Det settes opp transport tilbake til Oslo S kl 23:00 og 02:00</h2>
+                <h2 className='mt-1'>For de som sover over settes det opp transport kl 12:30 tilbake til Oslo</h2>
             </div>
             <div className='flex flex-col justify-center items-center mt-5 text-center text-xl'>
-                <h1 className='text-4xl'>Overnatting</h1>
+            <h1 className='text-4xl'>Overnatting</h1>
                 <h2 className='mt-1'>Hvis du har lyst til å våkne opp i frisk luft og spise frokost med gamle og nye
                     venner, kan du overnatte!</h2>
                 <h2 className='mt-1'>Kr. 600 for seng i fire- eller seksmanssrom inkludert sengetøy, håndklær og
