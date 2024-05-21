@@ -6,7 +6,7 @@ import Emil_og_Alex from '../images/Emil_og_Alex.jpg';
 import Henning_1 from '../images/Henning_1.jpg';
 import Henning_og_Alex from '../images/Henning_og_Alex.jpg';
 
-const Folovere = () => {
+const Forlovere = () => {
     return (<div className='flex flex-col items-center justify-center mt-10'>
         <div>
             <h1 className='text-6xl'>Forlovere</h1>
@@ -53,4 +53,4 @@ const Folovere = () => {
     </div>);
 }
 
-export default Folovere;
+export default Forlovere;
