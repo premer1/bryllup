@@ -8,9 +8,20 @@ const PraktiskInfo = () => {
                 <h1 className='text-6xl'>Praktisk Info</h1>
             </div>
 
-            <div className='flex flex-col justify-center items-center mt-4 p-3 text-xl'>
+            <div className='flex flex-col justify-center items-center mt-4 text-center text-xl'>
                 <h2>Bryllupet feires på Løvlia 29. juni</h2>
                 <img src={Lovlia} alt="img" className='h-80 rounded mt-2'/>
+                <h2 className='mt-4'>
+                    Løvlia ligger nydelig til på Lauvlisetervollen, en gammel setergrend som tilhører gårder på
+                    Ringerike.
+                </h2>
+                <h2 className='mt-1'>
+                    Skiforeningen startet byggingen av den nå 300 m² store laftete tømmerbygningen sommeren
+                    1936, og åpnet stua for publikum den 7. februar 1937.
+                </h2>
+                <h2 className='mt-1'>
+                    Stua har servering og 63 sengeplasser som kan utvides ved spesielle anledninger.
+                </h2>
             </div>
 
             <div className='flex flex-col justify-center items-center mt-4 text-center text-xl'>
@@ -18,7 +29,7 @@ const PraktiskInfo = () => {
                 <h2 className='mt-1'>Det settes opp transport tilbake til Oslo S 01:30 og dagen etter kl 12:30</h2>
             </div>
             <div className='flex flex-col justify-center items-center mt-5 text-center text-xl'>
-            <h1 className='text-4xl'>Overnatting</h1>
+                <h1 className='text-4xl'>Overnatting</h1>
                 <h2 className='mt-1'>Hvis du har lyst til å våkne opp i frisk luft og spise frokost med gamle og nye
                     venner, kan du overnatte!</h2>
                 <h2 className='mt-1'>Kr. 600 for seng i fire- eller seksmanssrom inkludert sengetøy, håndklær og
