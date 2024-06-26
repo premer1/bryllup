@@ -1,5 +1,7 @@
 import React from 'react'
 import Lovlia from '../images/Lovlia.jpeg'
+import osloS from '../images/Oslo-s.png'
+import osloS2 from '../images/Oslo-s-2.png'
 
 const PraktiskInfo = () => {
     return (
@@ -25,7 +27,13 @@ const PraktiskInfo = () => {
             </div>
 
             <div className='flex flex-col justify-center items-center mt-4 text-center text-xl'>
-                <h2>Felles busser går fra Oslo S, Sjøsiden, kl. 13:00</h2>
+                <h2>Felles busser går fra Oslo S, Sjøsiden, kl. 13:00 - Link til kart <a
+                    href="https://maps.app.goo.gl/imG96RG795JjppmW9" target="_blank" rel="noopener noreferrer"
+                    style={{color: 'blue'}}>her</a></h2>
+                <div className='flex w-full justify-center'>
+                    <img src={osloS} alt="img" className='w-1/3 rounded'/>
+                    <img src={osloS2} alt="img" className='w-1/3 rounded'/>
+                </div>
                 <h2 className='mt-1'>Det settes opp transport tilbake til Oslo S 01:30 og dagen etter kl 12:30</h2>
             </div>
             <div className='flex flex-col justify-center items-center mt-5 text-center text-xl'>
